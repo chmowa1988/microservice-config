@@ -1,4 +1,4 @@
-server.port=2031
+server.port=2032
 spring.application.name= MS-MAILGW-PEER1
 
 #------- Data Base
